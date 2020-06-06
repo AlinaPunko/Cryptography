@@ -1,0 +1,30 @@
+<meta charset="utf-8">
+<html>
+    <head>
+        <script src="StartFunc.js"></script>
+        <script src="StegoFunc.js"></script>
+        <style>
+            body {
+                font-family: Calibri, sans-serif;
+                margin: 3em;
+            }
+            textarea {
+                width: 100%;
+            }
+            p.author {
+                color: #CCC;
+                text-align: right;
+            }
+        </style>
+    </head>
+    <body>
+        <h3>Public message</h3>
+        <textarea id="plain" rows="10" cols="80" oninput="plainChange()"></textarea>
+
+        <h3>Secret message</h3>
+        <textarea id="message" rows="3" cols="80" oninput="messageChange()"></textarea>
+
+        <h3>Stego text</h3>
+        <textarea id="stego" rows="10" cols="80" oninput="stegoChange()"></textarea>
+    </body>
+</html>

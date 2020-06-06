@@ -1,0 +1,10 @@
+D:\лабы\КМЗИ\Lab11\Lab11\bin\Debug\Lab11.exe.config
+D:\лабы\КМЗИ\Lab11\Lab11\bin\Debug\Lab11.exe
+D:\лабы\КМЗИ\Lab11\Lab11\bin\Debug\Lab11.pdb
+D:\лабы\КМЗИ\Lab11\Lab11\obj\Debug\Lab11.csprojAssemblyReference.cache
+D:\лабы\КМЗИ\Lab11\Lab11\obj\Debug\Lab11.Form1.resources
+D:\лабы\КМЗИ\Lab11\Lab11\obj\Debug\Lab11.Properties.Resources.resources
+D:\лабы\КМЗИ\Lab11\Lab11\obj\Debug\Lab11.csproj.GenerateResource.cache
+D:\лабы\КМЗИ\Lab11\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+D:\лабы\КМЗИ\Lab11\Lab11\obj\Debug\Lab11.exe
+D:\лабы\КМЗИ\Lab11\Lab11\obj\Debug\Lab11.pdb

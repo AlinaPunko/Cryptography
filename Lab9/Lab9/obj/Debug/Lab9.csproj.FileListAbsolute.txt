@@ -1,0 +1,12 @@
+D:\лабы\КМЗИ\Lab9\Lab9\bin\Debug\Lab9.exe.config
+D:\лабы\КМЗИ\Lab9\Lab9\bin\Debug\Lab9.exe
+D:\лабы\КМЗИ\Lab9\Lab9\bin\Debug\Lab9.pdb
+D:\лабы\КМЗИ\Lab9\Lab9\bin\Debug\BouncyCastle.Crypto.dll
+D:\лабы\КМЗИ\Lab9\Lab9\obj\Debug\Lab9.csprojAssemblyReference.cache
+D:\лабы\КМЗИ\Lab9\Lab9\obj\Debug\Lab9.Form1.resources
+D:\лабы\КМЗИ\Lab9\Lab9\obj\Debug\Lab9.Properties.Resources.resources
+D:\лабы\КМЗИ\Lab9\Lab9\obj\Debug\Lab9.csproj.GenerateResource.cache
+D:\лабы\КМЗИ\Lab9\Lab9\obj\Debug\Lab9.csproj.CoreCompileInputs.cache
+D:\лабы\КМЗИ\Lab9\Lab9\obj\Debug\Lab9.csproj.CopyComplete
+D:\лабы\КМЗИ\Lab9\Lab9\obj\Debug\Lab9.exe
+D:\лабы\КМЗИ\Lab9\Lab9\obj\Debug\Lab9.pdb

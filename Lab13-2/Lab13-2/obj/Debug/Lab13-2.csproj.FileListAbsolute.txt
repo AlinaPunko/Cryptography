@@ -1,0 +1,15 @@
+D:\лабы\КМЗИ\Lab13-2\Lab13-2\bin\Debug\Lab13-2.exe.config
+D:\лабы\КМЗИ\Lab13-2\Lab13-2\bin\Debug\Lab13-2.exe
+D:\лабы\КМЗИ\Lab13-2\Lab13-2\bin\Debug\Lab13-2.pdb
+D:\лабы\КМЗИ\Lab13-2\Lab13-2\obj\Debug\Lab13-2.csprojAssemblyReference.cache
+D:\лабы\КМЗИ\Lab13-2\Lab13-2\obj\Debug\MainWindow.g.cs
+D:\лабы\КМЗИ\Lab13-2\Lab13-2\obj\Debug\App.g.cs
+D:\лабы\КМЗИ\Lab13-2\Lab13-2\obj\Debug\Lab13-2_MarkupCompile.cache
+D:\лабы\КМЗИ\Lab13-2\Lab13-2\obj\Debug\Lab13-2_MarkupCompile.lref
+D:\лабы\КМЗИ\Lab13-2\Lab13-2\obj\Debug\MainWindow.baml
+D:\лабы\КМЗИ\Lab13-2\Lab13-2\obj\Debug\Lab13-2.g.resources
+D:\лабы\КМЗИ\Lab13-2\Lab13-2\obj\Debug\Lab13_2.Properties.Resources.resources
+D:\лабы\КМЗИ\Lab13-2\Lab13-2\obj\Debug\Lab13-2.csproj.GenerateResource.cache
+D:\лабы\КМЗИ\Lab13-2\Lab13-2\obj\Debug\Lab13-2.csproj.CoreCompileInputs.cache
+D:\лабы\КМЗИ\Lab13-2\Lab13-2\obj\Debug\Lab13-2.exe
+D:\лабы\КМЗИ\Lab13-2\Lab13-2\obj\Debug\Lab13-2.pdb

@@ -1,0 +1,10 @@
+D:\лабы\КМЗИ\Lab8\Lab8\bin\Debug\Lab8.exe.config
+D:\лабы\КМЗИ\Lab8\Lab8\bin\Debug\Lab8.exe
+D:\лабы\КМЗИ\Lab8\Lab8\bin\Debug\Lab8.pdb
+D:\лабы\КМЗИ\Lab8\Lab8\obj\Debug\Lab8.csprojAssemblyReference.cache
+D:\лабы\КМЗИ\Lab8\Lab8\obj\Debug\Lab8.Properties.Resources.resources
+D:\лабы\КМЗИ\Lab8\Lab8\obj\Debug\Lab8.csproj.GenerateResource.cache
+D:\лабы\КМЗИ\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+D:\лабы\КМЗИ\Lab8\Lab8\obj\Debug\Lab8.exe
+D:\лабы\КМЗИ\Lab8\Lab8\obj\Debug\Lab8.pdb
+D:\лабы\КМЗИ\Lab8\Lab8\obj\Debug\Lab8.Form1.resources

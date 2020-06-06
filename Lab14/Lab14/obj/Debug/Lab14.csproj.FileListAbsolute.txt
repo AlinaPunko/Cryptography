@@ -1,0 +1,10 @@
+D:\лабы\КМЗИ\Lab14\Lab14\bin\Debug\Lab14.exe.config
+D:\лабы\КМЗИ\Lab14\Lab14\bin\Debug\Lab14.exe
+D:\лабы\КМЗИ\Lab14\Lab14\bin\Debug\Lab14.pdb
+D:\лабы\КМЗИ\Lab14\Lab14\obj\Debug\Lab14.csprojAssemblyReference.cache
+D:\лабы\КМЗИ\Lab14\Lab14\obj\Debug\Lab14.Form1.resources
+D:\лабы\КМЗИ\Lab14\Lab14\obj\Debug\Lab14.Properties.Resources.resources
+D:\лабы\КМЗИ\Lab14\Lab14\obj\Debug\Lab14.csproj.GenerateResource.cache
+D:\лабы\КМЗИ\Lab14\Lab14\obj\Debug\Lab14.csproj.CoreCompileInputs.cache
+D:\лабы\КМЗИ\Lab14\Lab14\obj\Debug\Lab14.exe
+D:\лабы\КМЗИ\Lab14\Lab14\obj\Debug\Lab14.pdb

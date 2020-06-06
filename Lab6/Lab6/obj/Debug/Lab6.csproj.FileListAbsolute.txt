@@ -1,0 +1,15 @@
+D:\лабы\КМЗИ\Lab6\Lab6\bin\Debug\Lab6.exe.config
+D:\лабы\КМЗИ\Lab6\Lab6\bin\Debug\Lab6.exe
+D:\лабы\КМЗИ\Lab6\Lab6\bin\Debug\Lab6.pdb
+D:\лабы\КМЗИ\Lab6\Lab6\obj\Debug\Lab6.csprojAssemblyReference.cache
+D:\лабы\КМЗИ\Lab6\Lab6\obj\Debug\MainWindow.g.cs
+D:\лабы\КМЗИ\Lab6\Lab6\obj\Debug\App.g.cs
+D:\лабы\КМЗИ\Lab6\Lab6\obj\Debug\Lab6_MarkupCompile.cache
+D:\лабы\КМЗИ\Lab6\Lab6\obj\Debug\Lab6_MarkupCompile.lref
+D:\лабы\КМЗИ\Lab6\Lab6\obj\Debug\MainWindow.baml
+D:\лабы\КМЗИ\Lab6\Lab6\obj\Debug\Lab6.g.resources
+D:\лабы\КМЗИ\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+D:\лабы\КМЗИ\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+D:\лабы\КМЗИ\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+D:\лабы\КМЗИ\Lab6\Lab6\obj\Debug\Lab6.exe
+D:\лабы\КМЗИ\Lab6\Lab6\obj\Debug\Lab6.pdb

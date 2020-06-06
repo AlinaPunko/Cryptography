@@ -1,0 +1,25 @@
+﻿<Window x:Class="Lab6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab6"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox Name="Decrypted" HorizontalAlignment="Left" Height="74" Margin="10,10,0,0" TextWrapping="Wrap" Text="Текст для зашифровки" VerticalAlignment="Top" Width="329"/>
+        <TextBox Name="Encrypted" HorizontalAlignment="Left" Height="74" Margin="430,10,0,0" TextWrapping="Wrap" Text="Зашифрованный текст" VerticalAlignment="Top" Width="352"/>
+        <TextBox Name="Rotors" HorizontalAlignment="Left" Height="23" Margin="86,96,0,0" TextWrapping="Wrap" Text="I-I-I" VerticalAlignment="Top" Width="148"/>
+        <TextBox Name="Reflector" HorizontalAlignment="Left" Height="23" Margin="86,127,0,0" TextWrapping="Wrap" Text="A" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="StartPos" HorizontalAlignment="Left" Height="23" Margin="112,155,0,0" TextWrapping="Wrap" Text="AAA" VerticalAlignment="Top" Width="162"/>
+        <TextBox Name="Ring" HorizontalAlignment="Left" Height="23" Margin="65,183,0,0" TextWrapping="Wrap" Text="AAA" VerticalAlignment="Top" Width="177"/>
+        <TextBox Name="Plugs" HorizontalAlignment="Left" Height="23" Margin="65,209,0,0" TextWrapping="Wrap" Text="KH AB CE" VerticalAlignment="Top" Width="177"/>
+        <Button Content="Encrypt" HorizontalAlignment="Left" Margin="381,130,0,0" VerticalAlignment="Top" Width="104" Click="Button_Click"/>
+        <Button Content="Decrypt" HorizontalAlignment="Left" Margin="550,130,0,0" VerticalAlignment="Top" Width="110" Click="Button_Click_1"/>
+        <Label Content="Rotors" HorizontalAlignment="Left" Margin="21,92,0,0" VerticalAlignment="Top"/>
+        <Label Content="Reflector" HorizontalAlignment="Left" Margin="21,123,0,0" VerticalAlignment="Top"/>
+        <Label Content="Plugs" HorizontalAlignment="Left" Margin="21,206,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.513,2.808"/>
+        <Label Content="Start positions" HorizontalAlignment="Left" Margin="21,149,0,0" VerticalAlignment="Top"/>
+        <Label Content="Ring" HorizontalAlignment="Left" Margin="21,175,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.588,1.846"/>
+    </Grid>
+</Window>

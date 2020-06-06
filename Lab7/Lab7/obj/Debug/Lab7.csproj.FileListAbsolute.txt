@@ -1,0 +1,9 @@
+D:\лабы\КМЗИ\Lab7\Lab7\bin\Debug\Lab7.exe.config
+D:\лабы\КМЗИ\Lab7\Lab7\bin\Debug\Lab7.exe
+D:\лабы\КМЗИ\Lab7\Lab7\bin\Debug\Lab7.pdb
+D:\лабы\КМЗИ\Lab7\Lab7\obj\Debug\Lab7.csprojAssemblyReference.cache
+D:\лабы\КМЗИ\Lab7\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+D:\лабы\КМЗИ\Lab7\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+D:\лабы\КМЗИ\Lab7\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+D:\лабы\КМЗИ\Lab7\Lab7\obj\Debug\Lab7.exe
+D:\лабы\КМЗИ\Lab7\Lab7\obj\Debug\Lab7.pdb
